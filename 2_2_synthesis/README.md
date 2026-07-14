@@ -19,7 +19,10 @@ White pixels in the middle, which means that the center reagion was developed in
 
 It is decided by the order of the channels passed in the image. 
 
+### Assignment 5. Create a new script and run this code to view this image over. Inspect Layer 1 and Layer 2 with the Inspector panel. Describe how the two layers differ and explain why they differ.
 
+![Alt text](band.png)
 
+While the first one is one of the 19 bands, the second one is a single band carved out of the image. 
 
 
